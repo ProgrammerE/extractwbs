@@ -1,4 +1,4 @@
-# Extract Elements from Webpage
+# Count Elements in Webpage
 Code snippet to count elements in a web page > this should use BeautifulSoup for statis webpages or geckodriver for dynamic ones
 
 - opens a hardcoded webpage
