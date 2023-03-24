@@ -1,5 +1,5 @@
 # Count Elements in Webpage
-Code snippet to count elements in a web page > this should use BeautifulSoup for statis webpages or geckodriver for dynamic ones
+Code snippet to count elements in a web page > this should use BeautifulSoup for static webpages or geckodriver for dynamic ones
 
 - opens a hardcoded webpage
 - uses BeautifulSoup to search for elements
